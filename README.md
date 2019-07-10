@@ -1,2 +1,1 @@
-# RAILWAY-DATABASE-MANAGEMENT-SYSTEM
-DBMS-PROJECT
+# Railway-Reservation-System
